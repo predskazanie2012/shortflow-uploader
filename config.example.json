@@ -1,0 +1,11 @@
+{
+  "youtube_studio_url": "https://studio.youtube.com",
+  "video_folder": "videos",
+  "default_visibility": "private",
+  "stop_before_publish": true,
+  "schedule_enabled": false,
+  "chrome_user_data_dir": "chrome-profile",
+  "channel_switch_enabled": false,
+  "max_videos_per_run": 1,
+  "move_failed_to_failed": false
+}

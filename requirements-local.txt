@@ -1,0 +1,2 @@
+-c constraints-local.txt
+playwright==1.62.0
